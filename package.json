@@ -1,0 +1,18 @@
+{
+  "name": "disney_plus_clone",
+  "version": "1.0.0",
+  "description": "Clone da página da Disney Plus\r #",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.58.3"
+  }
+}
