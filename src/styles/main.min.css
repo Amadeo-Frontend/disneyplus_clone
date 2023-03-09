@@ -1,1 +1,1 @@
-body{background-color:#00ff0d}
+@use "hero";*{margin:0;padding:0;box-sizing:border-box}body{background-color:#040714}.text--big{font-size:18px;line-height:28px;color:silver}.text{font-size:16px;line-height:26px;color:silver}.text--small{font-size:12px;line-height:22px;color:silver}.title--big{font-size:44px;line-height:54px;color:silver}.title{font-size:16px;line-height:26px;color:silver}.title--small{font-size:28px;line-height:38px;color:silver}.link-text{font-size:18px;line-height:28px;color:silver;color:#f9f9f9;text-decoration:underline}
