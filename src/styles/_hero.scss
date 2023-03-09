@@ -19,6 +19,7 @@
     }
     p {
       margin-bottom: 20px;
+
       &:last-child {
         margin-top: 60px;
       }
@@ -26,6 +27,7 @@
 
     &__combos {
       display: flex;
+      justify-content: space-between;
 
       &__combo {
         width: calc(50% - 12px);
