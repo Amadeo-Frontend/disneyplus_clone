@@ -2,7 +2,7 @@
 @use "hero";
 @use "shows";
 @use "plans";
-@use "watch-anywhere";
+@use "available-devices";
 
 @font-face {
   font-family: Avenir;
@@ -48,11 +48,13 @@ body {
 }
 
 .title {
-  @include text;
+  @include text(40px);
+  color: var.$corTextoSecundario;
 }
 
 .title--small {
   @include text(28px);
+  color: var.$corTextoSecundario;
 }
 
 .link-text {
@@ -72,4 +74,41 @@ body {
   border-radius: 4px;
   margin-top: 2vw;
   margin-bottom: 8px;
+}
+
+.image-text-section {
+  padding: 5.6vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+
+  img {
+    max-width: 100%;
+  }
+
+  &__text_container {
+    padding: 2vw;
+
+    h2 {
+      margin-bottom: 24px;
+      color: #f9f9f9;
+    }
+  }
+  &--image-full-width {
+    display: block;
+    position: relative;
+    img {
+      width: 100%;
+    }
+    &__text_container {
+      position: absolute;
+      top: 0;
+      left: 50%;
+      height: 100%;
+      width: calc(50% - 5.6vw);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
 }
