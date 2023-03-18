@@ -1,5 +1,5 @@
 #
-Clone da página da Disney +
+<h1 align="center">Clone da página da Disney +</h1>
 #
 
 LIVE:
@@ -11,6 +11,7 @@ https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/
 #
 </br>
 Um clone da landing page da disney + (100% Responsivo) feito com :
+
  <div style="display: inline_block">
      <img align="center" alt="Amadeo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Amadeo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
