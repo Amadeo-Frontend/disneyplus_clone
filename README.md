@@ -3,6 +3,7 @@
 #
 </br>
 Um clone da landing page da disney + (100% Responsivo) feito com :
+
 </br>
  <div style="display: inline_block">
      <img align="center" alt="Amadeo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
