@@ -2,7 +2,11 @@
 Clone da página da Disney +
 #
 
-LIVE: ```https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/```
+LIVE:
+
+```
+https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/
+```
 
 #
 </br>
