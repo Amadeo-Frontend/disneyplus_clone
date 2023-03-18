@@ -15,8 +15,9 @@
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
   </div>
   </br>
-<p align="center">LIVE:</p>
+
  <div align="center">
+ <p align="center">LIVE:</p>
 https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/
  </div>
  
