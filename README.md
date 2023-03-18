@@ -1,12 +1,12 @@
-#
-<h1 align="center">Clone da página da Disney +</h1>
-#
+
+<h1 align="center">Clone da página Disney +</h1>
+
 
 </br>
-<p>Um clone da landing page da disney + (100% Responsivo) feito com :</p>
+<p align="center">Um clone da landing page da disney + (100% Responsivo) feito com :</p>
 
 </br>
- <div style="display: inline_block">
+ <div style="display: inline_block" align="center">
      <img align="center" alt="Amadeo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Amadeo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Amadeo-JavaScript" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -15,7 +15,7 @@
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
   </div>
   </br>
-LIVE:
+<p align="center">LIVE:</p>
 
 ```
 https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/
