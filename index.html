@@ -235,7 +235,13 @@
       </div>
     </section>
     <section class="image-text-section image-text-section--image-full-width">
-      <img src="./dist/images/fundo_rei_leao.png" alt="Rei leão" />
+      <picture>
+        <source
+          media="(max-width:768px)"
+          srcset="./dist/images/fundo_rei_leao_celular.png"
+        />
+        <img src="./dist/images/fundo_rei_leao.png" alt="Rei leão" />
+      </picture>
       <div
         class="image-text-section__text_container image-text-section--image-full-width__text_container"
       >
@@ -475,7 +481,7 @@
             <a href="#" class="text--small">Acordo de Assinante</a>
           </li>
           <li class="footer__links__item">
-            <a href="#" class="text--small">política de Privacidade</a>
+            <a href="#" class="text--small">Política de Privacidade</a>
           </li>
           <li class="footer__links__item">
             <a href="#" class="text--small"
@@ -518,10 +524,17 @@
           </li>
         </ul>
         <p class="text--small">
-          A disponibilidade de conteúdo e plataforma pode variar de acordo com a
-          região.
+          ® 2022 Disney, Disney+ e The Walt Disney Company. Todos os direitos
+          reservados. Serviço de assinatura paga. Conteúdo sujeito a
+          disponibilidade.
         </p>
-        <p class="text--small">©Disney. Todos os direitos reservados.</p>
+        <p class="text--small">
+          Disney+ é um serviço pago, baseado em assinatura e sujeito a termos e
+          condições. O serviço Disney+ é comercializado por The Walt Disney
+          Company (Brasil) Ltda., World Trade Center, Av. Das Nações Unidas,
+          12.551, 12.555, 12.559, Piso 10, São Paulo/SP – CEP 04578-903, Brasil
+          e CNPJ/M 73.042.962/0004-20
+        </p>
       </div>
     </footer>
     <script src="./src/main.js"></script>
