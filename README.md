@@ -19,6 +19,8 @@ Um clone da landing page da disney + (100% Responsivo) feito com :
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/sass/sass-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
   </div>
+  
 #
+
 ![Image Generation App](https://github.com/Amadeo-Frontend/images_sites/blob/main/screencapture-disneyplus-clone-a71cpp78f-amadeo-frontend-vercel-app-2023-03-18-10_16_09.png)
 
