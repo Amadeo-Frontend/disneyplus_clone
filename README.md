@@ -18,7 +18,7 @@
 <p align="center">LIVE:</p>
 
 ```
-<a align="center">https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/</a>
+<a>https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/</a>
 ```  
 #
 
