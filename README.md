@@ -10,9 +10,8 @@ https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/
 
 #
 </br>
-
-Um clone da landing page da disney + feito com :
- <div style="display: inline_block"><br>
+Um clone da landing page da disney + (100% Responsivo) feito com :
+ <div style="display: inline_block">
      <img align="center" alt="Amadeo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Amadeo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Amadeo-JavaScript" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -20,8 +19,6 @@ Um clone da landing page da disney + feito com :
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/sass/sass-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
   </div>
-100% Responsivo
-
 #
 ![Image Generation App](https://github.com/Amadeo-Frontend/images_sites/blob/main/screencapture-disneyplus-clone-a71cpp78f-amadeo-frontend-vercel-app-2023-03-18-10_16_09.png)
 
