@@ -1,7 +1,6 @@
 #
 <h1 align="center">Clone da página da Disney +</h1>
 #
-
 </br>
 Um clone da landing page da disney + (100% Responsivo) feito com :
 </br>
@@ -14,7 +13,6 @@ Um clone da landing page da disney + (100% Responsivo) feito com :
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
   </div>
   </br>
-  ##
 LIVE:
 
 ```
