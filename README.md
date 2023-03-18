@@ -17,10 +17,9 @@
   </br>
 <p align="center">LIVE:</p>
  <div align="center">
-```
 https://disneyplus-clone-a71cpp78f-amadeo-frontend.vercel.app/
-```  
  </div>
+ 
 #
 
 ![Image Generation App](https://github.com/Amadeo-Frontend/images_sites/blob/main/screencapture-disneyplus-clone-a71cpp78f-amadeo-frontend-vercel-app-2023-03-18-10_16_09.png)
